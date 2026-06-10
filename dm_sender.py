@@ -41,7 +41,7 @@ IG_SESSION_ID = os.getenv("IG_SESSION_ID", "").strip()
 IG_PROXY      = os.getenv("IG_PROXY", "").strip()
 DMS_FILE     = "ig_dms.csv"
 SESSION_FILE = "ig_session.json"
-DAILY_LIMIT  = 12   # conservative — stays under Instagram's radar
+DAILY_LIMIT  = 15   # conservative — stays under Instagram's radar
 
 
 # ── Session management ─────────────────────────────────────────────────────────
