@@ -1,0 +1,8 @@
+anthropic==0.109.1
+google-auth==2.53.0
+google-auth-oauthlib==1.4.0
+gspread==6.2.1
+instagrapi==2.9.0
+python-dotenv==1.2.2
+requests==2.34.2
+requests-oauthlib==2.0.0
